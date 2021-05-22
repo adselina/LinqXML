@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CATALOG>
+	<PLANT>
+		<COMMON species="root">Кровавый корень</COMMON>
+		<BOTANICAL>Sanguinaria canadensis</BOTANICAL>
+	</PLANT>
+	<PLANT>
+		<COMMON_2 species="flower">Болотная Календула</COMMON_2>
+		<BOTANICAL>Caltha palustris</BOTANICAL>
+	</PLANT>
+	<PLANT>
+		<COMMON_2 species="flower" height ="30">Болотная Календула</COMMON_2>
+		<BOTANICAL_2 species="flower" height ="30">Caltha palustris</BOTANICAL_2>
+	</PLANT>
+</CATALOG>

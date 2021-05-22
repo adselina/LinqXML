@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ROOT>
+  <pupil name="Степанова Г.Б." class="9">
+    <mark subject="Физика">4</mark>
+    <mark subject="Математика">5</mark>
+    <mark subject="Информатика">5</mark>
+    <mark subject="Русский">4</mark>
+  </pupil>
+  <pupil name="Иванов Г.Б." class="9">
+    <mark subject="Физика">3</mark>
+    <mark subject="Математика">4</mark>
+    <mark subject="Информатика">3</mark>
+    <mark subject="Русский">3</mark>
+  </pupil>
+  <pupil name="Свирепов Г.Б." class="9">
+    <mark subject="Физика">5</mark>
+    <mark subject="Математика">5</mark>
+    <mark subject="Информатика">5</mark>
+    <mark subject="Русский">5</mark>
+  </pupil>
+  <pupil name="Рыжиков Г.Б." class="10">
+    <mark subject="Физика">5</mark>
+    <mark subject="Математика">5</mark>
+    <mark subject="Информатика">5</mark>
+    <mark subject="Русский">5</mark>
+  </pupil>
+  <pupil name="Бирюзова Г.Б." class="10">
+    <mark subject="Физика">5</mark>
+    <mark subject="Математика">4</mark>
+    <mark subject="Информатика">5</mark>
+    <mark subject="Русский">4</mark>
+  </pupil>
+  <pupil name="Бирюзова Г.Б." class="1">
+    <mark subject="Природоведенье">5</mark>
+  </pupil>
+
+</ROOT>
+

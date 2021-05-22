@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ROOT>
+<client id="10" time="PT5H13M">
+  <year>2000</year>
+  <month>5</month>
+</client>
+ <client id="12" time="PT3H12M">
+    <year>2000</year>
+    <month>5</month>
+ </client>
+  <client id="12" time="PT1H29M">
+    <year>2000</year>
+    <month>5</month>
+  </client>
+ <client id="12" time="PT4H13M">
+    <year>2001</year>
+    <month>4</month>
+</client>
+  <client id="13" time="PT5H13M">
+    <year>2001</year>
+    <month>3</month>
+  </client>
+  <client id="13" time="PT6H13M">
+    <year>2001</year>
+    <month>2</month>
+  </client>
+ </ROOT>
+
